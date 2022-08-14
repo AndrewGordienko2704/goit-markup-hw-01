@@ -1,0 +1,65 @@
+body {
+    background-color: #F5F5F5;
+    color: #212121;
+}
+ul {
+    list-style: none;
+}
+
+.logo {
+    color: #000000; #2196F3;
+     
+}
+.half-logo {
+ color: #2196F3;   
+}
+/* стилизация навигации */
+.site-nav .link {
+    color: #212121;
+}
+.site-nav .link:hover, 
+.site-nav .link:focus {
+    color: #2196F3;
+}
+.site-nav .link.current {
+    color: #2196F3;
+}
+.contacts .tel {
+    color: #757575;
+    }
+.contacts .tel:hover, 
+.contacts .tel:focus {
+    color: #2196F3;
+}    
+/* стилизация заглавия с кнопкой */
+.button {
+    cursor: pointer;
+    background-color: #2196F3;
+    color: #ffffff;
+   }
+.button:hover 
+.button:focus {
+color: #2196F3;
+ }
+
+/* стилизация страницы */
+.box-title {
+    color: #212121;
+}
+/* стилизация секции наші переваги */
+.benefits .title {
+    color: #212121;
+}
+.information {
+    color: #757575;
+}
+/* стилізація секції наша команда */
+.box.element {
+    background-color: #F5F4FA;
+}
+.team .team-member {
+    color: #212121;
+}
+.team .position {
+    color: #757575;
+}
